@@ -1,0 +1,25 @@
+body{
+    padding: 0px 100px;
+
+}
+h1{
+    text-align: center;
+    background:rgb(10, 34, 134) ;
+    color: white;
+    margin-bottom: 2px;
+    width: 100%;
+}
+#textbox{
+    width: 99.3%;
+    border: 2px solid;
+    border-color:rgb(10, 34, 134);
+    font-size: 18px;
+}
+p{
+    margin-top: 0;
+    background: rgb(10, 34, 134);
+    text-align: center;
+    color: white;
+    letter-spacing: 1px;
+    width: 100%;
+}
